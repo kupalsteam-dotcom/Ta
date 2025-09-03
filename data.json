@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Joshua",
+        "age": 20,
+        "address": "Cebu City"
+    },
+    {
+        "id": 2,
+        "name": "Maria",
+        "age": 22,
+        "address": "Manila"
+    },
+    {
+        "id": 3,
+        "name": "james",
+        "age": 30,
+        "address": "Davao City"
+    },
+      {
+        "id": 4,
+        "name": "Jundel",
+        "age": 78,
+        "address": "Kalunasan"
+    }
+]
