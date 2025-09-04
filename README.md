@@ -1,5 +1,9 @@
+GROUP MEMBERS:
+
 Del Carmen, Junde Eivan
+
 Sarda, Joshua
+
 Tejano, Joefranz
 
 Features
