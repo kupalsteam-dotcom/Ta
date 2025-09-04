@@ -1,4 +1,4 @@
-GROUP MEMBERS:
+GROUP MEMBERS
 
 Del Carmen, Junde Eivan
 
@@ -6,7 +6,8 @@ Sarda, Joshua
 
 Tejano, Joefranz
 
-Features
+
+FEATURES
 
 GET → Fetch all users
 
