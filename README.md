@@ -1,24 +1,58 @@
-GROUP MEMBERS
+IT SIA31 – API Development Project
 
-Del Carmen, Junde Eivan
+Objective
 
-Sarda, Joshua
+To design, develop, and present a simple but unique API that demonstrates understanding of API concepts, system integration, and collaboration using GitHub.
 
-Tejano, Joefranz
+Project Requirements
 
+1.API Feature
 
-FEATURES
+Your API must have at least 1 functional feature.
 
-GET → Fetch all users
+The feature must be unique compared to other groups' work (no duplicates allowed).
 
-POST → Add a new user
+Example features: Random recipe generator, School events announcement API, Student study tips API, Daily motivational quotes API, Weather summary for a specific city.
 
-PUT → Update an existing user
+2.Technology
 
-DELETE → Remove a user by ID
+You may use any programming language or framework suitable for API development (e.g., Laravel, FastAPI, Express.js, Flask, Spring Boot).
 
-Uses data.json for persistence (no database required)
+API should return data in JSON format.
 
-Handles CORS for API testing tools (e.g., Postman)
+3.GitHub Collaboration
 
-This is a simple RESTful API built with PHP that manages user data stored in a JSON file (data.json). It supports CRUD operations (Create, Read, Update, Delete) without using a database.
+Each group must create a GitHub repository for their API.
+
+Members should: Push code regularly, Pull changes from the repository, Create and merge branches.
+
+Proper commit messages are required (e.g., “Added route for GET /events”).
+
+4.Documentation
+
+Include a README.md in the repository explaining:
+• API description and feature
+• Installation/setup instructions
+• Example request and response
+
+5.Presentation
+
+5–8 minutes per group.
+
+Demonstrate the API running and explain its unique feature.
+
+Show GitHub repository activity as proof of collaboration.
+
+Grading Criteria
+Criteria	Description	Weight
+Uniqueness of Feature	Originality, creativity, and usefulness of the API’s main function	60%
+GitHub Usage	Code commits, branching, pulling/pushing, teamwork on GitHub	30%
+Presentation	Clarity, API demo, and ability to answer questions	10%
+Total		100%
+Rules
+
+Duplicate API ideas will not be allowed. First to submit their chosen idea gets it.
+
+Code must be written by your group (no copy-paste from online templates).
+
+Each member should contribute (GitHub history will be checked).
